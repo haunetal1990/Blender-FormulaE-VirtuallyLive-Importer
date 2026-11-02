@@ -5,3 +5,15 @@
 
 # Blender Fomula E powered by Virtually Live Importer
 Import tracks and scenes of Formula E powered by Virtually Live in Blender
+
+## Features
+
+| Feature | Status |
+|:---|:---|
+| 3D Models Import (Tracks & Cars) | ✅ |
+| Material Import | ✅ |
+
+## Topics
+https://forum.studio-397.com/index.php?threads/blender-plugins-from-me.73647
+
+## Blender Extensions
