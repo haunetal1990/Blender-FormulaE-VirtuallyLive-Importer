@@ -17,4 +17,4 @@ Import tracks and scenes of Formula E powered by Virtually Live in Blender
 https://forum.studio-397.com/index.php?threads/blender-plugins-from-me.73647
 
 ## Blender Extensions
-https://extensions.blender.org/approval-queue/io-import-vlive/
+[Blender Extensions](https://extensions.blender.org/approval-queue/io-import-vlive/)
